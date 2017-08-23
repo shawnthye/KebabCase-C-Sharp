@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26730.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KebabCase", "KebabCase\KebabCase.csproj", "{0DF8F257-8035-4037-9BB8-79D28C6EE528}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KebabCaseSample", "KebabCaseSample\KebabCaseSample.csproj", "{EEB224A1-BD86-4037-A9DF-672C6E1F05B1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KebabCasePlayground", "KebabCaseSample\KebabCasePlayground.csproj", "{EEB224A1-BD86-4037-A9DF-672C6E1F05B1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{DB1688BC-6B5D-4C28-B949-C934F515639F}"
 EndProject

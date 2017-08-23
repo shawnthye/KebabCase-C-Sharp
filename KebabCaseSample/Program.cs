@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace KebabCaseSample {
+namespace KebabCasePlayground {
     class Program {
         static void Main(string[] args) {
             Console.WriteLine("Sample App to conver text to a Kebab Case");
